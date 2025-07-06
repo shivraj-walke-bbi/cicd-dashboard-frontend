@@ -1,13 +1,38 @@
-# React + Vite
+# 🚀 DEVELOPER
+SHIVRAJ WALKE
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🚦 CI/CD Build Dashboard Frontend
 
-Currently, two official plugins are available:
+A modern React + Vite dashboard to visualize and monitor your CI/CD build metrics, pulling data from a REST API (e.g., your [NestJS + Firestore API on Render](https://cicd-dashboard-api.onrender.com/builds)).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# cicd-dashboard-frontend
+- **Modern stack:** React 18, Vite, Axios
+- **Real-time builds table:** Shows builds, tests, code analysis, etc.
+- **Instant updates:** Fetches build data from your REST API
+- **Ready for deployment:** Firebase Hosting, Vercel, Netlify, or any static host
+
+---
+
+## 📁 Project Structure
+cicd-dashboard-frontend/
+├── src/
+│ ├── App.jsx
+│ ├── main.jsx
+│ └── index.css
+├── public/
+├── package.json
+├── vite.config.js
+├── README.md
+
+
+
+# 🚀 MAIN PART 
+
+## How to build and deploy on firebase
+1. firebase login
+2. npm run build
+3. firebase deploy
+
