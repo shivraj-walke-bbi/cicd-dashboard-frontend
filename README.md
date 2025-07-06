@@ -16,18 +16,6 @@ A modern React + Vite dashboard to visualize and monitor your CI/CD build metric
 
 ---
 
-## 📁 Project Structure
-cicd-dashboard-frontend/
-├── src/
-│ ├── App.jsx
-│ ├── main.jsx
-│ └── index.css
-├── public/
-├── package.json
-├── vite.config.js
-├── README.md
-
-
 
 # 🚀 MAIN PART 
 
@@ -36,3 +24,7 @@ cicd-dashboard-frontend/
 2. npm run build
 3. firebase deploy
 
+# 🚀 URL'S
+1. https://cicd-dashboard.web.app
+2. http://localhost:5173/
+3. https://github.com/shivraj-walke-bbi/cicd-dashboard-frontend
